@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi ! I´m Adrian
 
-<!--
-**Adrian97G/Adrian97G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### For me it´s a pleasure to have you here.
 
-Here are some ideas to get you started:
+### I am passionate about development, programming, and everything related to design and construction in the fascinating world of technology and the web. My focus is on Frontend development, and I have experience and knowledge in a variety of essential tools, such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 **UI/UX Design:** Work with Figma to create attractive and functional designs.
+🚀 **Web Technologies:** I use **HTML**, **CSS**, **SASS**, **Tailwind** and **Bootstrap** to build polished user interfaces.
+⚡ **Javascript:** I use this dynamic programming language to add interactive functionality to my projects.
+🌐 **Vue.js:** I develop single page web applications (SPA) and progressive web applications (PWA) with this powerful framework.
+🔗 **Version Control:** I master version control tools such as **Git**, **GitHub**, and **GitLab** to collaborate on projects and manage my code effectively.
+
+If you are looking for someone who can bring creativity, technical experience, and a strong commitment to quality to your projects, do not hesitate to contact me!
+
+- ![Bandera de Colombia](ruta/al/imagen/bandera-colombia.png) I´m Colombian
+**social networks** 
+  - [LinkedIn](https://www.linkedin.com/in/adrian-ospina/)
+  - [Instagram](https://www.instagram.com/ospina.1997/)
+  - [Facebook](https://web.facebook.com/adrian.ospina.524?locale=es_LA)
+  - [Github](https://github.com/Adrian97G)
+  - 📱 Whatssap: 3054265021
+
+
