@@ -1,8 +1,8 @@
-### Hi ! I´m Adrian
+## Hi ! I´m Adrian
 
-### For me it´s a pleasure to have you here.
+## For me it´s a pleasure to have you here.
 
-### I am passionate about development, programming, and everything related to design and construction in the fascinating world of technology and the web. My focus is on Frontend development, and I have experience and knowledge in a variety of essential tools, such as:
+I am passionate about development, programming, and everything related to design and construction in the fascinating world of technology and the web. My focus is on Frontend development, and I have experience and knowledge in a variety of essential tools, such as:
 
 🎨 **UI/UX Design:** Work with Figma to create attractive and functional designs.
 🚀 **Web Technologies:** I use **HTML**, **CSS**, **SASS**, **Tailwind** and **Bootstrap** to build polished user interfaces.
@@ -12,12 +12,13 @@
 
 If you are looking for someone who can bring creativity, technical experience, and a strong commitment to quality to your projects, do not hesitate to contact me!
 
-- ![Bandera de Colombia](ruta/al/imagen/bandera-colombia.png) I´m Colombian
-**social networks** 
+- I´m Colombian
+  
+## social networks
   - [LinkedIn](https://www.linkedin.com/in/adrian-ospina/)
   - [Instagram](https://www.instagram.com/ospina.1997/)
   - [Facebook](https://web.facebook.com/adrian.ospina.524?locale=es_LA)
   - [Github](https://github.com/Adrian97G)
-  - 📱 Whatssap: 3054265021
+  - 📱 Whatssap: 305-426-5021
 
 
