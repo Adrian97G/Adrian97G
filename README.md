@@ -2,7 +2,7 @@
 
 ## For me it´s a pleasure to have you here.
 
-I am passionate about development, programming, and everything related to design and construction in the fascinating world of technology and the web. My focus is on Frontend development, and I have experience and knowledge in a variety of essential tools, such as:
+I´m passionate about development, programming, and everything related to design and construction in the fascinating world of technology and the web. My focus is on Frontend development, and I have experience and knowledge in a variety of essential tools, such as:
 
 - 🎨 **UI/UX Design:** Work with Figma to create attractive and functional designs.
 - 🚀 **Web Technologies:** I use **HTML**, **CSS**, **SASS**, **Tailwind** and **Bootstrap** to build polished user interfaces.
