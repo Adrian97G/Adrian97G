@@ -16,8 +16,7 @@ If you are looking for someone who can bring creativity, technical experience, a
   
 ## Social Networks
   - [LinkedIn](https://www.linkedin.com/in/adrian-ospina/)
-  - [Instagram](https://www.instagram.com/ospina.1997/)
-  - [Facebook](https://web.facebook.com/adrian.ospina.524?locale=es_LA)
+  - [My Personal Web Site](https://mywebsite-dev.netlify.app)
   - [Github](https://github.com/Adrian97G)
   - 📱 Whatssap: 305-426-5021
 
